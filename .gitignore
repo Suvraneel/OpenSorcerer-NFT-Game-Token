@@ -140,7 +140,3 @@ dist
 # OSX
 
 .DS_Store
-
-
-# Suvraneel only (Node17 fix)
-package.json
