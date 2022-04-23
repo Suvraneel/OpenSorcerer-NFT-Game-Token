@@ -1,3 +1,3 @@
-# Eagle Eye NFT Minter App
+# OpenSorceror Minter App
 
-Mint an NFT and you can play the game Eagle eye !! Grab yours.
+Mint an NFT and you can play the games !! Grab yours.
